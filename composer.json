@@ -1,12 +1,12 @@
 {
-    "name": "blade-organization/blade-heroicons",
-    "description": "A package to easily make use of Heroicons in your Laravel Blade views.",
-    "keywords": ["Blade", "Heroicons", "Laravel"],
-    "homepage": "https://github.com/blade-organization/blade-heroicons",
+    "name": "aleex1848/blade-hwkicons",
+    "description": "A package to easily make use of Hwkicons in your Laravel Blade views.",
+    "keywords": ["Blade", "Hwkicons", "Laravel"],
+    "homepage": "https://www.hwk-do.de",
     "license": "MIT",
     "authors": [
         {
-            "name": "Blade Developer"
+            "name": "Alexander Dieckmann"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BladeUI\\Heroicons\\": "src"
+            "Aleex1848\\BladeHwkicons\\": "src"
         }
     },
     "autoload-dev": {
@@ -31,7 +31,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BladeUI\\Heroicons\\BladeHeroiconsServiceProvider"
+                "Aleex1848\\BladeHwkicons\\BladeHwkiconsServiceProvider"
             ]
         }
     },

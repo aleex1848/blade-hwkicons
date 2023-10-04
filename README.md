@@ -10,15 +10,6 @@
     <img src="https://img.shields.io/packagist/dt/blade-organization/blade-heroicons" alt="Total Downloads">
 </a>
 
-> This is a template repository for new icon packages for [Blade Icons](https://github.com/blade-ui-kit/blade-icons). Start a new repo with this and replace the relevant things below:
-> 
-> 1. `blade-organization` with your GitHub organization
-> 2. `blade-heroicons` with your repository name
-> 3. `Blade Heroicons` & `Blade Icons Template` with your icon set name
-> 4. Any other reference to `Heroicons` with your icon set name
-> 5. `Blade Developer` with your name
-> 
-> Then, make sure [the implementation](./src) is correct, that you set up [icon generation](https://github.com/blade-ui-kit/blade-icons#generating-icons) and that [your tests](./tests) pass. And remove this quote block from your readme. When you've published your package on Packagist, make sure to send it in to [the Blade Icons package list](https://github.com/blade-ui-kit/blade-icons#icon-packages).
 
 A package to easily make use of [Heroicons](https://github.com/refactoringui/heroicons) in your Laravel Blade views.
 
