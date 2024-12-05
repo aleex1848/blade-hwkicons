@@ -1,6 +1,6 @@
 {
     "name": "aleex1848/blade-hwkicons",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "A package to easily make use of Hwkicons in your Laravel Blade views.",
     "keywords": ["Blade", "Hwkicons", "Laravel"],
     "homepage": "https://www.hwk-do.de",
